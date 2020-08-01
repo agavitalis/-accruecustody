@@ -6,7 +6,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 
-	<title>Accruecustodylawfirm.com &#8211; Knowledge is Power</title>
+	<title>Accruecustody.com &#8211; Knowledge is Power</title>
 	@yield("styles")
 	<script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/Accruecustodylawfirm.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.4" } };
