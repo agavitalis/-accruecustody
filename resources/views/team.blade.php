@@ -24,7 +24,7 @@
                                 <div class="mkd-breadcrumbs-holder">
                                     <div class="mkd-breadcrumbs">
                                         <div class="mkd-breadcrumbs-inner"><a
-                                                href="index.htm">Wilsoncolelawfirm.com</a><span
+                                                href="index.htm">Accruecustodylawfirm.com</a><span
                                                 class="mkd-delimiter">&nbsp;&gt;&nbsp;</span><span
                                                 class="mkd-current">Our Team of Lawyers</span></div>
                                     </div>
@@ -104,7 +104,7 @@
                                                 <div class="mkd-team-info">
                                                     <div class="mkd-team-title-holder">
                                                         <h4 class="mkd-team-name" style="color: #ffffff">
-                                                            Wilson Cole </h4>
+                                                            Accrue Custody </h4>
                                                         <h5 class="mkd-team-position"
                                                             style="color: #ffffff">Titular Attorney</h5>
                                                     </div>

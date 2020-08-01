@@ -3622,7 +3622,7 @@
                                                 <div class="wpb_text_column wpb_content_element ">
                                                     <div class="wpb_wrapper">
                                                         <p>With our strongest practices working together,
-                                                            Wilson Cole is exceptionally suited to address
+                                                            Accrue Custody is exceptionally suited to address
                                                             whatever the future brings.</p>
 
                                                     </div>

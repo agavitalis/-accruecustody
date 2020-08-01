@@ -6,10 +6,10 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 
-	<title>Wilsoncolelawfirm.com &#8211; Knowledge is Power</title>
+	<title>Accruecustodylawfirm.com &#8211; Knowledge is Power</title>
 	@yield("styles")
 	<script type="text/javascript">
-		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/wilsoncolelawfirm.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.4" } };
+		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/Accruecustodylawfirm.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.4" } };
 		!function (e, a, t) { var r, n, o, i, p = a.createElement("canvas"), s = p.getContext && p.getContext("2d"); function c(e, t) { var a = String.fromCharCode; s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, e), 0, 0); var r = p.toDataURL(); return s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, t), 0, 0), r === p.toDataURL() } function l(e) { if (!s || !s.fillText) return !1; switch (s.textBaseline = "top", s.font = "600 32px Arial", e) { case "flag": return !c([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) && (!c([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !c([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447])); case "emoji": return !c([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340]) }return !1 } function d(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (i = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, o = 0; o < i.length; o++)t.supports[i[o]] = l(i[o]), t.supports.everything = t.supports.everything && t.supports[i[o]], "flag" !== i[o] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[i[o]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (r = t.source || {}).concatemoji ? d(r.concatemoji) : r.wpemoji && r.twemoji && (d(r.twemoji), d(r.wpemoji))) }(window, document, window._wpemojiSettings);
 	</script>
 	<style type="text/css">
@@ -58,8 +58,8 @@
 			</div>
 		</div>
 		<div id="text-22" class="widget mkd-sidearea widget_text">
-			<div class="textwidget"><a href="http://libero.mikado-themes.com/"><img
-						src="https://libero.mikado-themes.com/wp-content/uploads/2015/12/logo-side-area.png"
+			<div class="textwidget"><a href="/"><img
+						src="wp-content\img\logo-white.png"
 						alt="a"></a></div>
 		</div>
 		<div id="nav_menu-4" class="widget mkd-sidearea widget_nav_menu">
@@ -163,7 +163,7 @@
 									<div class="mkd-logo-wrapper">
 										<a href="/" style="height: 75px;">
 											<img class="mkd-normal-logo"
-												src="wp-content\uploads\2020\01\wilson-cole-logo-white.png" alt="logo">
+												src="wp-content\img\logo-white.png" alt="logo">
 											<img class="mkd-dark-logo"
 												src="wp-content\uploads\2020\01\wilson-cole-logo.png" alt="dark logo">
 											<img class="mkd-light-logo" src="wp-content\uploads\2015\12\logo-main.png"
@@ -331,7 +331,7 @@
 				</div>
 				<div class="mkd-menu-area">
 					<div class="mkd-grid">
-						<form action="https://wilsoncolelawfirm.com/" class="mkd-search-cover" method="get">
+						<form action="https://Accruecustodylawfirm.com/" class="mkd-search-cover" method="get">
 							<div class="mkd-container">
 								<div class="mkd-container-inner clearfix">
 									<div class="mkd-form-holder-outer" role="search">
@@ -436,11 +436,11 @@
 								<div class="mkd-position-left">
 									<div class="mkd-position-left-inner">
 
-										<div class="mkd-logo-wrapper">
+										<!-- <div class="mkd-logo-wrapper">
 											<a href="/">
 												<img src="" alt="logo">
 											</a>
-										</div>
+										</div> -->
 
 
 										<nav class="mkd-main-menu mkd-drop-down mkd-sticky-nav">
@@ -534,7 +534,7 @@
 
 									<div class="mkd-mobile-logo-wrapper">
 										<a href="/" style="height: 75px">
-											<img src="wp-content\uploads\2020\01\wilson-cole-logo-white.png"
+											<img src="wp-content\img\logo-white.png"
 												alt="mobile logo">
 										</a>
 									</div>
@@ -861,7 +861,7 @@
 											<div class="mkd-column-inner">
 												<div id="text-9" class="widget mkd-footer-bottom-left widget_text">
 													<div class="textwidget">Copyright 2020 <span
-															style="color:#c18f59;">Wilson Cole</span></div>
+															style="color:#c18f59;">Accrue Custody</span></div>
 												</div>
 											</div>
 										</div>

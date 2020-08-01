@@ -33,7 +33,7 @@
                                                 class="vc_empty_space_inner"></span></div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
-                                                <h3><span style="color: #ffffff;">&#8211; Wilson Cole,
+                                                <h3><span style="color: #ffffff;">&#8211; Accrue Custody,
                                                         Founder of Company</span></h3>
 
                                             </div>

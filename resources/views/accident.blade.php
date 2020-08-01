@@ -24,7 +24,7 @@
                                 <div class="mkd-breadcrumbs-holder">
                                     <div class="mkd-breadcrumbs">
                                         <div class="mkd-breadcrumbs-inner"><a
-                                                href="index.htm">Wilsoncolelawfirm.com</a><span
+                                                href="index.htm">Accruecustodylawfirm.com</a><span
                                                 class="mkd-delimiter">&nbsp;&gt;&nbsp;</span><span
                                                 class="mkd-current">Car Accident Injuries</span></div>
                                     </div>
@@ -272,7 +272,7 @@
                                                 class="vc_empty_space_inner"></span></div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
-                                                <p>Wilson Cole Lawyers have been helping victims of serious
+                                                <p>Accrue Custody Lawyers have been helping victims of serious
                                                     car accidents since 1982. We represent clients from all
                                                     walks of life. Our LA car accident lawyers have been
                                                     able to recover millions of dollars in settlements and

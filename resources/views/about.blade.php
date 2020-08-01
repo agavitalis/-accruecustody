@@ -1472,7 +1472,7 @@
                                                 <h5 class="mkd-imagewt-subtitle">protecting rights</h5>
                                             </div>
                                             <div class="mkd-imagewt-text-holder">
-                                                <p style="color: #ffffff">Wilson Cole provide you with
+                                                <p style="color: #ffffff">Accrue Custody provide you with
                                                     results-oriented representation, drawing on talents of
                                                     lawyers, engaged in high-profile cases across the
                                                     country.</p>

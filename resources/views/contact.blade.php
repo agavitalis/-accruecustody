@@ -170,7 +170,7 @@
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p><span style="color: #222222;">Contact:</span> <span
-                                                        style="color: #c18f59;">contactwilsoncolelawfirm@gmail.com</span>
+                                                        style="color: #c18f59;">contactAccruecustodylawfirm@gmail.com</span>
                                                 </p>
 
                                             </div>
@@ -180,7 +180,7 @@
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p><span style="color: #222222;">Info:</span> <span
-                                                        style="color: #c18f59;">info@wilsoncolelawfirm.com</span>
+                                                        style="color: #c18f59;">info@Accruecustodylawfirm.com</span>
                                                 </p>
 
                                             </div>
