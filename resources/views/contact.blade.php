@@ -170,7 +170,7 @@
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p><span style="color: #222222;">Contact:</span> <span
-                                                        style="color: #c18f59;">contactAccruecustodylawfirm@gmail.com</span>
+                                                        style="color: #c18f59;">info.accruecustodian@gmail.com</span>
                                                 </p>
 
                                             </div>
@@ -180,7 +180,7 @@
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p><span style="color: #222222;">Info:</span> <span
-                                                        style="color: #c18f59;">info@Accruecustodylawfirm.com</span>
+                                                        style="color: #c18f59;">info.accruecustodian@gmail.com</span>
                                                 </p>
 
                                             </div>
@@ -234,7 +234,7 @@
                                                             </div>
                                                             <p class="mkd-icon-list-text"
                                                                 style="color:#222222;font-size:27px;padding-left:8px"
-                                                                data-title-size="27"> (727) 440-0774</p>
+                                                                data-title-size="27"> +44 7537-183316</p>
                                                         </div>
                                                         <div class="vc_empty_space" style="height: 2px">
                                                             <span class="vc_empty_space_inner"></span></div>

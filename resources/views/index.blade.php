@@ -2129,7 +2129,7 @@
                                                                     </div>
                                                                     <div
                                                                         class="mkd-fullwidth-slider-item-button">
-                                                                        <a href="contact.html"
+                                                                        <a href="/contact"
                                                                             target="_self"
                                                                             class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon">
                                                                             <span
@@ -2184,7 +2184,7 @@
                                                                     </div>
                                                                     <div
                                                                         class="mkd-fullwidth-slider-item-button">
-                                                                        <a href="contact.html"
+                                                                        <a href="/contact"
                                                                             target="_self"
                                                                             class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon">
                                                                             <span
@@ -2240,7 +2240,7 @@
                                                                     </div>
                                                                     <div
                                                                         class="mkd-fullwidth-slider-item-button">
-                                                                        <a href="contact.html"
+                                                                        <a href="/contact"
                                                                             target="_self"
                                                                             class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon">
                                                                             <span
@@ -2295,7 +2295,7 @@
                                                                     </div>
                                                                     <div
                                                                         class="mkd-fullwidth-slider-item-button">
-                                                                        <a href="contact.html"
+                                                                        <a href="/contact"
                                                                             target="_self"
                                                                             class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon">
                                                                             <span
@@ -3018,7 +3018,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="mkd-service-link">
-                                                    <a href="services.html" target="_self">
+                                                    <a href="/services" target="_self">
                                                         <span> See success rates </span>
 
                                                         <span
@@ -3062,7 +3062,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="mkd-service-link">
-                                                    <a href="services.html" target="_self">
+                                                    <a href="/services" target="_self">
                                                         <span> See success rates </span>
 
                                                         <span
@@ -3106,7 +3106,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="mkd-service-link">
-                                                    <a href="services.html" target="_self">
+                                                    <a href="/services" target="_self">
                                                         <span> See success rates </span>
 
                                                         <span
@@ -3150,7 +3150,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="mkd-service-link">
-                                                    <a href="services.html" target="_self">
+                                                    <a href="/services" target="_self">
                                                         <span> See success rates </span>
 
                                                         <span
@@ -3530,7 +3530,7 @@
                                                 <div
                                                     class="mkd-interactive-image mkd-animate-image mkd-linked">
 
-                                                    <a href="services.html"></a>
+                                                    <a href="/services"></a>
                                                     <img width="200" height="200"
                                                         src="wp-content\uploads\2015\11\h-main-circle-img-1.jpg"
                                                         class="attachment-full size-full" alt="a"
@@ -3566,7 +3566,7 @@
                                                 <div
                                                     class="mkd-interactive-image mkd-animate-image mkd-linked">
 
-                                                    <a href="services.html"></a>
+                                                    <a href="/services"></a>
                                                     <img width="200" height="200"
                                                         src="wp-content\uploads\2015\11\h-main-circle-img-2.jpg"
                                                         class="attachment-full size-full" alt="a"
@@ -3603,7 +3603,7 @@
                                                 <div
                                                     class="mkd-interactive-image mkd-animate-image mkd-linked">
 
-                                                    <a href="services.html"></a>
+                                                    <a href="/services"></a>
                                                     <img width="200" height="200"
                                                         src="wp-content\uploads\2015\11\h-main-circle-img-3.jpg"
                                                         class="attachment-full size-full" alt="a"
@@ -3639,7 +3639,7 @@
                                                 <div
                                                     class="mkd-interactive-image mkd-animate-image mkd-linked">
 
-                                                    <a href="services.html"></a>
+                                                    <a href="/services"></a>
                                                     <img width="200" height="200"
                                                         src="wp-content\uploads\2015\11\h-main-circle-img-4.jpg"
                                                         class="attachment-full size-full" alt="a"
@@ -4297,7 +4297,7 @@
                                                     <div class="mkd-button-wrapper mkd-call-to-action-column2 mkd-call-to-action-cell"
                                                         style="text-align: left ;">
 
-                                                        <a href="contact.html" target="_self"
+                                                        <a href="/contact" target="_self"
                                                             class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon">
                                                             <span class="mkd-btn-text">Contact
                                                                 us</span><span class="mkd-btn-icon-holder">

@@ -209,7 +209,7 @@
 															style="color:#c18f59;font-size:25px"></i> </div>
 												</div>
 												<p class="mkd-icon-list-text" style="color:#ffffff;font-size:27px"
-													data-title-size="27"> (727) 440-0774</p>
+													data-title-size="27"> +44 7537-183316</p>
 											</div>
 											<div class="vc_empty_space" style="height: 2px"><span
 													class="vc_empty_space_inner"></span></div>
