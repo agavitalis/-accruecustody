@@ -54,7 +54,7 @@
                                                 class="vc_empty_space_inner"></span></div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
-                                                <p>3660 Havendale Blvd Winter Haven Fl 33881</p>
+                                                <p>Tower 12, 18-22 Bridge Street, Deansgate, Manchester M3 3BZ</p>
 
                                             </div>
                                         </div>
@@ -91,19 +91,10 @@
                                         <div role="form" class="wpcf7" id="wpcf7-f1483-p845-o1" lang="en-US"
                                             dir="ltr">
                                             <div class="screen-reader-response"></div>
-                                            <form action="/contact/#wpcf7-f1483-p845-o1" method="post"
+                                            <form action="/" method="post"
                                                 class="wpcf7-form cf7_custom_style_1"
                                                 novalidate="novalidate">
-                                                <div style="display: none;">
-                                                    <input type="hidden" name="_wpcf7" value="1483">
-                                                    <input type="hidden" name="_wpcf7_version"
-                                                        value="5.1.6">
-                                                    <input type="hidden" name="_wpcf7_locale" value="en_US">
-                                                    <input type="hidden" name="_wpcf7_unit_tag"
-                                                        value="wpcf7-f1483-p845-o1">
-                                                    <input type="hidden" name="_wpcf7_container_post"
-                                                        value="845">
-                                                </div>
+                                               
                                                 <p><span class="wpcf7-form-control-wrap text-185"><input
                                                             type="text" name="text-185" value="" size="40"
                                                             class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
@@ -120,7 +111,7 @@
                                                             aria-invalid="false"
                                                             placeholder="Describe your case briefly."></textarea></span>
                                                 </p>
-                                                <p><input type="submit" value="Contact us now"
+                                                <p><input type="button" value="Contact us now"
                                                         class="wpcf7-form-control wpcf7-submit"></p>
                                                 <div class="wpcf7-response-output wpcf7-display-none"></div>
                                             </form>

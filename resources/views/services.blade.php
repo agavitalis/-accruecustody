@@ -502,7 +502,7 @@
                                                     <div class="mkd-button-wrapper mkd-call-to-action-column2 mkd-call-to-action-cell"
                                                         style="text-align: left ;">
 
-                                                        <a href="#" target="_self"
+                                                        <a href="/contact" target="_self"
                                                             class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon">
                                                             <span class="mkd-btn-text">Contact us
                                                                 now</span><span class="mkd-btn-icon-holder">

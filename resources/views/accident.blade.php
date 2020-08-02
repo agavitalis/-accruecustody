@@ -399,7 +399,7 @@
                                                 <div class="mkd-button-wrapper mkd-call-to-action-column2 mkd-call-to-action-cell"
                                                     style="text-align: right ;">
 
-                                                    <a href="contact\index.htm" target="_self"
+                                                    <a href="contact" target="_self"
                                                         style="background-color: #3e475d"
                                                         class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon">
                                                         <span class="mkd-btn-text">Free case

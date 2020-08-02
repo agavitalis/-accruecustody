@@ -66,7 +66,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="mkd-interactive-image mkd-animate-image mkd-linked">
 
-                                            <a href="facts\index.htm"></a>
+                                            <a href="facts"></a>
                                             <img width="192" height="192"
                                                 src="wp-content\uploads\2015\11\aoc-round-img-1.jpg"
                                                 class="attachment-full size-full" alt="a"
@@ -98,7 +98,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="mkd-interactive-image mkd-animate-image mkd-linked">
 
-                                            <a href="our-team-of-lawyers\index.htm"></a>
+                                            <a href="our-team-of-lawyers"></a>
                                             <img width="192" height="192"
                                                 src="wp-content\uploads\2015\11\aoc-round-img-2.jpg"
                                                 class="attachment-full size-full" alt="a"
@@ -130,7 +130,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="mkd-interactive-image mkd-animate-image mkd-linked">
 
-                                            <a href="our-services\index.htm"></a>
+                                            <a href="our-services"></a>
                                             <img width="192" height="192"
                                                 src="wp-content\uploads\2015\11\aoc-round-img-3.jpg"
                                                 class="attachment-full size-full" alt="a"
@@ -162,7 +162,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="mkd-interactive-image mkd-animate-image mkd-linked">
 
-                                            <a href="company-history\index.htm"></a>
+                                            <a href="company-history"></a>
                                             <img width="192" height="192"
                                                 src="wp-content\uploads\2015\11\aoc-round-img-4.jpg"
                                                 class="attachment-full size-full" alt="a"
@@ -1440,7 +1440,7 @@
                                                     know-how, we leverage the robust legal expertise of
                                                     working in different courts.</p>
                                             </div>
-                                            <a href="contact\index.htm" target="_self"
+                                            <a href="contact" target="_self"
                                                 class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon mkd-imagewt-btn">
                                                 <span class="mkd-btn-text">Contact Us Now</span><span
                                                     class="mkd-btn-icon-holder">
@@ -1477,7 +1477,7 @@
                                                     lawyers, engaged in high-profile cases across the
                                                     country.</p>
                                             </div>
-                                            <a href="contact\index.htm" target="_self"
+                                            <a href="contact" target="_self"
                                                 class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon mkd-imagewt-btn">
                                                 <span class="mkd-btn-text">Contact Us Now</span><span
                                                     class="mkd-btn-icon-holder">
@@ -1513,7 +1513,7 @@
                                                     partner with our clients and embrace the promise and
                                                     potential of innovation.</p>
                                             </div>
-                                            <a href="contact\index.htm" target="_self"
+                                            <a href="contact" target="_self"
                                                 class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon mkd-imagewt-btn">
                                                 <span class="mkd-btn-text">Contact Us Now</span><span
                                                     class="mkd-btn-icon-holder">

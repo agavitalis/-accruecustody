@@ -6,7 +6,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 
-	<title>Accruecustody.com &#8211; Knowledge is Power</title>
+	<title>Accruecustodian.com &#8211; Knowledge is Power</title>
 	@yield("styles")
 	<script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/Accruecustodylawfirm.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.4" } };
@@ -145,7 +145,7 @@
 
 				<div class="vc_empty_space" style="height: 21px"><span class="vc_empty_space_inner"></span></div>
 
-				Copyright 2020 <span style="color:#c18f59">Libero</span>.<br>
+				Copyright 2020 <span style="color:#c18f59">Accrue Custody</span>.<br>
 				All Rights Reserved.
 			</div>
 		</div>
@@ -331,7 +331,7 @@
 				</div>
 				<div class="mkd-menu-area">
 					<div class="mkd-grid">
-						<form action="https://Accruecustodylawfirm.com/" class="mkd-search-cover" method="get">
+						<form action="https://accruecustodian.com/" class="mkd-search-cover" method="get">
 							<div class="mkd-container">
 								<div class="mkd-container-inner clearfix">
 									<div class="mkd-form-holder-outer" role="search">
@@ -756,7 +756,7 @@
 													<div role="form" class="wpcf7" id="wpcf7-f2318-o1" lang="en-US"
 														dir="ltr">
 														<div class="screen-reader-response"></div>
-														<form action="/#wpcf7-f2318-o1" method="post" class="wpcf7-form"
+														<form action="/" method="post" class="wpcf7-form"
 															novalidate="novalidate">
 															
 															<p><span class="wpcf7-form-control-wrap email-978"><input
@@ -770,7 +770,7 @@
 																		aria-invalid="false"
 																		placeholder="Describe your case briefly."></textarea></span>
 															</p>
-															<p><input type="submit" value="Contact us now"
+															<p><input type="button" value="Contact us now"
 																	class="wpcf7-form-control wpcf7-submit"></p>
 															<div class="wpcf7-response-output wpcf7-display-none"></div>
 														</form>

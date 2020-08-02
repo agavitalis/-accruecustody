@@ -18,7 +18,7 @@
 								<div class="mkd-breadcrumbs-holder">
 									<div class="mkd-breadcrumbs">
 										<div class="mkd-breadcrumbs-inner"><a
-												href="index.htm">Accruecustodylawfirm.com</a><span
+												href="index.htm">accruecustodian.com</a><span
 												class="mkd-delimiter">&nbsp;&gt;&nbsp;</span><span
 												class="mkd-current">Articles posted by dzoshh</span></div>
 									</div>
@@ -118,7 +118,7 @@
 											</div>
 											<div class="mkd-post-info-category">
 												<span class="mkd-post-info-icon icon-clock"></span>
-												in <a href="category\uncategorized\index.htm"
+												in <a href="#"
 													rel="category tag">Uncategorized</a></div>
 										</div>
 										<p class="mkd-post-excerpt">
@@ -152,7 +152,7 @@
 									</div>
 									<div class="mkd-post-info-comments-holder">
 										<a class="mkd-post-info-comments"
-											href="2015\11\11\form-3115-for-a-cash-to-accrual-method-for-small-businesses\index.htm#respond"
+											href="#"
 											target="_self">
 											<span class="mkd-post-info-comments-no">0</span>
 											<span class="mkd-post-info-comments-text">Comments</span>
@@ -212,7 +212,7 @@
 								<div class="mkd-post-text">
 									<div class="mkd-post-text-inner">
 										<h1 class="mkd-post-title">
-											<a href="2015\11\11\form-3115-for-a-cash-to-accrual-method-for-small-businesses\index.htm"
+											<a href="#"
 												title="Form 3115 for a Cash to Accrual Method for Small Businesses">Form
 												3115 for a Cash to Accrual Method for Small Businesses</a>
 										</h1>
@@ -231,7 +231,7 @@
 													rel="category tag">Necessary Forms</a></div>
 										</div>
 										<div class="mkd-post-image">
-											<a href="2015\11\11\form-3115-for-a-cash-to-accrual-method-for-small-businesses\index.htm"
+											<a href="#"
 												title="Form 3115 for a Cash to Accrual Method for Small Businesses">
 												<img width="1300" height="755"
 													src="wp-content\uploads\2015\11\blog-form-3115.jpg"
@@ -251,7 +251,7 @@
 											organisation, the development of external relations, management
 											of press relations and constant communication with the press....
 										</p><a
-											href="2015\11\11\form-3115-for-a-cash-to-accrual-method-for-small-businesses\index.htm"
+											href="#"
 											target="_self" style="font-size: 11px"
 											class="mkd-btn mkd-btn-medium mkd-btn-solid mkd-btn-icon mkd-blog-read-more">
 											<span class="mkd-btn-text">Continue reading</span><span
@@ -279,7 +279,7 @@
 									</div>
 									<div class="mkd-post-info-comments-holder">
 										<a class="mkd-post-info-comments"
-											href="2015\11\09\elie-wiesel\index.htm#respond" target="_self">
+											href="#" target="_self">
 											<span class="mkd-post-info-comments-no">0</span>
 											<span class="mkd-post-info-comments-text">Comments</span>
 										</a>
@@ -343,7 +343,7 @@
 									<div class="mkd-post-text-inner">
 										<div class="mkd-post-title">
 											<h4>
-												<a href="2015\11\09\elie-wiesel\index.htm"
+												<a href="#"
 													title="Elie Wiesel">There are times when we are
 													powerless to prevent injustice, but there must never be
 													a time when we fail to protest.</a>
@@ -385,7 +385,7 @@
 									</div>
 									<div class="mkd-post-info-comments-holder">
 										<a class="mkd-post-info-comments"
-											href="2015\11\08\further-specialist-help-providing-free-legal-advice\index.htm#respond"
+											href="#"
 											target="_self">
 											<span class="mkd-post-info-comments-no">0</span>
 											<span class="mkd-post-info-comments-text">Comments</span>

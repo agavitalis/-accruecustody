@@ -3344,11 +3344,11 @@
                                                                         </div>
                                                                         <div class="mkd-item-text-holder">
                                                                             <a class="mkd-item-minimal-link"
-                                                                                href="2015\06\18\training-in-the-law-in-order-to-become-a-domestic-or-international-legal-adviser\index.html">
+                                                                                href="#">
                                                                             </a>
                                                                             <h3 class="mkd-item-title">
                                                                                 <a
-                                                                                    href="2015\06\18\training-in-the-law-in-order-to-become-a-domestic-or-international-legal-adviser\index.html">
+                                                                                    href="#">
                                                                                     Training in The Law in
                                                                                     order to become a
                                                                                     Domestic or
@@ -3362,10 +3362,10 @@
                                                                                     <span
                                                                                         class="mkd-post-info-icon icon-clock"></span>
                                                                                     in <a
-                                                                                        href="category\pro-bono-work\index.html"
+                                                                                        href="#"
                                                                                         rel="category tag">Pro
                                                                                         Bono Work</a>, <a
-                                                                                        href="category\training\index.html"
+                                                                                        href="#"
                                                                                         rel="category tag">Training</a>
                                                                                 </div>
                                                                             </div>
@@ -3387,11 +3387,11 @@
                                                                         </div>
                                                                         <div class="mkd-item-text-holder">
                                                                             <a class="mkd-item-minimal-link"
-                                                                                href="2015\08\20\how-to-deal-with-your-staff-executives-clients-and-the-board-of-directors\index.html">
+                                                                                href="#">
                                                                             </a>
                                                                             <h3 class="mkd-item-title">
                                                                                 <a
-                                                                                    href="2015\08\20\how-to-deal-with-your-staff-executives-clients-and-the-board-of-directors\index.html">
+                                                                                    href="#">
                                                                                     How to deal with Your
                                                                                     Staff, Executives,
                                                                                     Clients and the Board of
@@ -3404,10 +3404,10 @@
                                                                                     <span
                                                                                         class="mkd-post-info-icon icon-clock"></span>
                                                                                     in <a
-                                                                                        href="category\high-pressure\index.html"
+                                                                                        href="#"
                                                                                         rel="category tag">High
                                                                                         Pressure</a>, <a
-                                                                                        href="category\necessary-forms\index.html"
+                                                                                        href="#"
                                                                                         rel="category tag">Necessary
                                                                                         Forms</a></div>
                                                                             </div>
@@ -3429,11 +3429,11 @@
                                                                         </div>
                                                                         <div class="mkd-item-text-holder">
                                                                             <a class="mkd-item-minimal-link"
-                                                                                href="2015\09\23\heading-committees-leading-corporate-meetings-and-making-powerful-presentations\index.html">
+                                                                                href="#">
                                                                             </a>
                                                                             <h3 class="mkd-item-title">
                                                                                 <a
-                                                                                    href="2015\09\23\heading-committees-leading-corporate-meetings-and-making-powerful-presentations\index.html">
+                                                                                    href="#">
                                                                                     Heading Committees,
                                                                                     Leading Corporate
                                                                                     Meetings and making
@@ -3447,10 +3447,10 @@
                                                                                     <span
                                                                                         class="mkd-post-info-icon icon-clock"></span>
                                                                                     in <a
-                                                                                        href="category\high-pressure\index.html"
+                                                                                        href="#"
                                                                                         rel="category tag">High
                                                                                         Pressure</a>, <a
-                                                                                        href="category\legal-advice\index.html"
+                                                                                        href="#"
                                                                                         rel="category tag">Legal
                                                                                         Advice</a></div>
                                                                             </div>

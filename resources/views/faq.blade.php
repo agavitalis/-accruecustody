@@ -395,17 +395,7 @@
 												<div class="screen-reader-response"></div>
 												<form action="/faq/#wpcf7-f691-p904-o1" method="post"
 													class="wpcf7-form" novalidate="novalidate">
-													<div style="display: none;">
-														<input type="hidden" name="_wpcf7" value="691">
-														<input type="hidden" name="_wpcf7_version"
-															value="5.1.6">
-														<input type="hidden" name="_wpcf7_locale"
-															value="en_US">
-														<input type="hidden" name="_wpcf7_unit_tag"
-															value="wpcf7-f691-p904-o1">
-														<input type="hidden" name="_wpcf7_container_post"
-															value="904">
-													</div>
+													
 													<p><span class="wpcf7-form-control-wrap text-185"><input
 																type="text" name="text-185" value=""
 																size="40"
@@ -425,7 +415,7 @@
 																aria-invalid="false"
 																placeholder="Describe your case briefly."></textarea></span>
 													</p>
-													<p style="padding-left: 16px;"><input type="submit"
+													<p style="padding-left: 16px;"><input type="button"
 															value="Contact us now"
 															class="wpcf7-form-control wpcf7-submit"></p>
 													<div class="wpcf7-response-output wpcf7-display-none">
