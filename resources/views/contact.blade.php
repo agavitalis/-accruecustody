@@ -161,7 +161,7 @@
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p><span style="color: #222222;">Contact:</span> <span
-                                                        style="color: #c18f59;">info.accruecustodian@gmail.com</span>
+                                                        style="color: #c18f59;">info@accruecustodian.com</span>
                                                 </p>
 
                                             </div>
@@ -171,7 +171,7 @@
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p><span style="color: #222222;">Info:</span> <span
-                                                        style="color: #c18f59;">info.accruecustodian@gmail.com</span>
+                                                        style="color: #c18f59;">info@accruecustodian.com</span>
                                                 </p>
 
                                             </div>
