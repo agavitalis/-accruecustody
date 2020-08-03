@@ -47,3 +47,7 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Server IP:	104.219.248.46
+Username:	accruwgd
+SSH port:	21098

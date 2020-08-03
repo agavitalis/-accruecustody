@@ -224,8 +224,23 @@
                                                                 </div>
                                                             </div>
                                                             <p class="mkd-icon-list-text"
-                                                                style="color:#222222;font-size:27px;padding-left:8px"
+                                                                style="color:#222222;padding-left:8px"
                                                                 data-title-size="27"> +44 7537-183316</p>
+                                                                
+                                                        </div>
+                                                        <br/>
+                                                        <div class="mkd-icon-list-item">
+                                                            <div class="mkd-icon-list-icon-holder">
+                                                                <div class="mkd-icon-list-icon-holder-inner clearfix"
+                                                                    data-icon-size="23">
+                                                                    <i class="mkd-icon-simple-line-icon icon-earphones-alt "
+                                                                        style="color:#c18f59;font-size:23px"></i>
+                                                                </div>
+                                                            </div>
+                                                            <p class="mkd-icon-list-text"
+                                                                style="color:#222222;"
+                                                                data-title-size="27"> +44 7537-130265</p>
+                                                                
                                                         </div>
                                                         <div class="vc_empty_space" style="height: 2px">
                                                             <span class="vc_empty_space_inner"></span></div>
